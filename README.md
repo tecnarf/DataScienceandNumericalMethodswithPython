@@ -1,2 +1,2 @@
-# DataScience and Numerical Methods with Python
+# Data Science and Numerical Methods with Python
 
